@@ -1,0 +1,4 @@
+there 1st thg is to do $ git init
+$ git status to know the files in ur staging area. these files will appear in red
+$ git add filename to add the file in ur staging area. 
+
